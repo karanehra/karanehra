@@ -1,11 +1,6 @@
 # Hello!
 I am Karan Nehra. I write code and solve problems.
 
-# Get in Touch!
-[![Linkedin Badge](https://img.shields.io/badge/-karanehra-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karanehra/)](https://www.linkedin.com/in/karanehra/)
-[![Instagram Badge](https://img.shields.io/badge/-karanehra-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/karanehra)
-[![Gmail Badge](https://img.shields.io/badge/-karanehra@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:karanehra@gmail.com)
-
 # Stuff i know
 
 I work as a Full Stack Engineer creating cutting edge high throughput server applications and sleek User Experiences
